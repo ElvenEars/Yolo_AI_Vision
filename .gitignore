@@ -1,0 +1,7 @@
+dog.jpg
+object-detection.jpg
+output.avi
+test.mp4
+output/*.*
+yolov3.weights
+yolo-coco/yolov3.weights
